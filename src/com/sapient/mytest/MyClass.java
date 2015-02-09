@@ -5,7 +5,7 @@ public class MyClass {
 	public static void main(String args[]) throws Exception {
 
 
-		System.out.println("Testing It it auau dssfd hgsh");
+		System.out.println("Testing It it auau dssfd hgsh test");
 
 	}
 
